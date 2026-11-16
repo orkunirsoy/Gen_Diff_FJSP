@@ -16,7 +16,7 @@ We have implemented the diffusion model, schedule decoders, and evaluation pipel
 
 The model is competitive with some evolutionary baselines when using multiple samples, but there is still room for improvement compared to stronger learning-based methods.
 
-![Makespan gap comparison](figures/all_methods_gap_boxplots.pdf)
+![Makespan gap comparison](figures/all_methods_gap_boxplots.png)
 
 *Figure 1. Makespan gaps relative to CP-SAT across five test sets. Lower is better.*
 
